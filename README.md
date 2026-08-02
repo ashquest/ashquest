@@ -24,6 +24,7 @@ I am a Robotics Researcher passionate about building intelligent agents that can
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkNzM2N2M3ejByaHVqdDhkZ2JyeWhtYWMxZmI5ZmFqZWp5d3pqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E7vtyB1IUIbPef6S0y/giphy.gif" width="350" alt="Humanoid">
 </p>
 
+---
 
 ## 🌐 Links
 - 📄 [Resume/CV](https://ashquest.pages.dev/assets/pdf/Aashish_Sinha_CV_July_2026.pdf)
