@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ashquest/ashquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Hi, I'm Aashish Sinha 🤖 
+
+I am a Robotics Researcher passionate about building intelligent agents that can perceive, reason, and act in the physical world.
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hkNzM2N2M3ejByaHVqdDhkZ2JyeWhtYWMxZmI5ZmFqZWp5d3pqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E7vtyB1IUIbPef6S0y/giphy.gif" width="450" alt="Humanoid">
+</p>
+
+
