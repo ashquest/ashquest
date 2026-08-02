@@ -25,3 +25,8 @@ I am a Robotics Researcher passionate about building intelligent agents that can
 </p>
 
 
+## 🌐 Links
+- 📄 [Resume/CV](https://ashquest.pages.dev/assets/pdf/Aashish_Sinha_CV_July_2026.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aashish-sinha-en)
+- ✉️ [Email](mailto:aashish.xml@gmail.com)
+
